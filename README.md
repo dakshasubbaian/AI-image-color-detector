@@ -71,3 +71,38 @@ python color_picker_app.py
 * Clipboard support allows quick use of colors in design or development.
 
 ---
+
+
+Got it. Here’s a clear, step-by-step **Demo section** formatted for your README, with placeholders for images/screenshots you can add:
+
+---
+
+## DEMO
+
+1. **Run the program**
+   Launch the app to open the main window.
+   ![Step 1 - App Start](step1.png)
+
+2. **Choose an image**
+   Click the "Open Image" button and select an image file.
+   ![Step 2 - Choose Image](step2.png)
+
+3. **Image displayed**
+   The chosen image appears resized inside the app window.
+   ![Step 3 - Image Displayed](step3.png)
+
+4. **Click a spot on the image**
+   Click anywhere on the image to detect the color at that pixel.
+   ![Step 4 - Click Pixel](step4.png)
+
+5. **HEX color displayed**
+   The HEX color code appears below, with the background color changed, and it is copied to your clipboard.
+   ![Step 5 - HEX Displayed](step5.png)
+
+---
+
+**Note:** Replace `step1.png`, `step2.png`, etc. with your actual screenshots. Upload them to your repo and adjust paths accordingly.
+
+---
+
+If you want, I can help you draft text captions for each step or assist in creating those screenshots.
