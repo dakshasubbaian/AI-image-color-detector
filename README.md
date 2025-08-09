@@ -95,18 +95,18 @@ Got it. Here’s a clear, step-by-step **Demo section** formatted for your READM
    
    The chosen image appears resized inside the app window.
    
-   ![Step 3 - Image Displayed](step3.png)
+  
 
 4. **Click a spot on the image**
    
    Click anywhere on the image to detect the color at that pixel.
-   
-   ![Step 4 - Click Pixel](step4.png)
+
+    ![Step 3 - Image Displayed](step3.png)
 
 5. **HEX color displayed**
    
    The HEX color code appears below, with the background color changed, and it is copied to your clipboard.
    
-   ![Step 5 - HEX Displayed](step5.png)
+   ![Step 4 - Click Pixel](step4.png)
 
 ---
